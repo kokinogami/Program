@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4606574267636400757
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4606574267636400759}
+  - component: {fileID: 2851531096810403840}
+  - component: {fileID: 9147382185811294078}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 2147483647
+  m_IsActive: 1
+--- !u!4 &4606574267636400759
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4606574267636400757}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2851531096810403840
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4606574267636400757}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c695abde5d00e5e44baf98541e599538, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Defultstate: 1
+  ClearUI: {fileID: 0}
+  TimeText: {fileID: 0}
+  ClearText: {fileID: 0}
+  Rank1Time: {fileID: 0}
+  Rank2Time: {fileID: 0}
+  Rank3Time: {fileID: 0}
+  Rank4Time: {fileID: 0}
+  Rank5Time: {fileID: 0}
+  EnemyCountText: {fileID: 0}
+  BaseTime: 60
+  zone: {fileID: 0}
+  resultObj: {fileID: 0}
+  explanationUI: {fileID: 0}
+  TimeS: 120
+  TimeA: 180
+  TimeB: 360
+  TimeC: 600
+  RankS: {fileID: 0}
+  RankA: {fileID: 0}
+  RankB: {fileID: 0}
+  RankC: {fileID: 0}
+  pauseUIPrefab: {fileID: 5959016031455883889, guid: 5cb1ede5005864c4da521c8c34162c8d,
+    type: 3}
+  pauseUIFirestButton: {fileID: 0}
+  InputSystemUI: {fileID: 0}
+  gameOverUIPrefab: {fileID: 4770738231984586300, guid: fa33478c6dccbb14ea1748d8a2c1d883,
+    type: 3}
+  gameOverFirstButton: {fileID: 0}
+  SoundSlider: {fileID: 0}
+  SoundSliderButton: {fileID: 0}
+  UIOpenList: []
+  UIFirestButtonList: []
+  Adawd: 0
+  testmode: 0
+  yukinoMain: {fileID: 0}
+  yukinoSound: {fileID: 0}
+  AllEnemyList:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  TargetMarkCreate: {fileID: 0}
+--- !u!114 &9147382185811294078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4606574267636400757}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6680ec3fc5887144bc84c55ebf29677, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  a: {fileID: 0}
+  concentration: {fileID: 0}
