@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shootable
+  - Ground
+  - tenjou
+  - joushou
+  - JumpPad
+  - BrokenObject
+  - heal
+  - enemy
+  - DeathZone
+  - checkPoint
+  - CollectibleItem
+  - RespawnableStage
+  - HipDropCollider
+  - zako
+  - BrokenFloor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - BlokenWall
+  - Enemy
+  - Lighting
+  - Ground
+  - Postprocessing
+  - ChargeBreakeEfect
+  - Item
+  - ConnectIce
+  - GriderCollider
+  - MiniMap
+  - Boss
+  - BossCenter
+  - ShockWave
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0

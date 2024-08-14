@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Assets_Marge/Scenes/GameStage/MainMenu.unity
+    guid: 3e5ade5472a1ee64287f91ba69274337
+  - enabled: 1
+    path: Assets/Assets_Marge/Scenes/GameStage/Mainmap.unity
+    guid: a0c817daa2c212442bc4f8451792ea6d
+  - enabled: 1
+    path: Assets/Assets_Marge/Scenes/GameStage/Stage1.unity
+    guid: 78a6ed94d31b9d04cb20bd0be8e49676
+  - enabled: 1
+    path: Assets/Assets_Marge/Scenes/GameStage/Stage2.unity
+    guid: d79a176124a292043ac36966537663bd
+  - enabled: 1
+    path: Assets/Assets_Marge/Scenes/GameStage/Stage3.unity
+    guid: 6067d73857b5e494ebbe5cd6c10bd65d
+  - enabled: 0
+    path: Assets/Assets_Marge/Scenes/Debug.unity
+    guid: b6bdeb7627e54f5418d18bcffdbf3416
+  - enabled: 0
+    path: Assets/Assets_Marge/Scenes/Sample.unity
+    guid: 8034e5b1f1eae9b43bd848c5c07ba8c8
+  - enabled: 1
+    path: Assets/Yamaura/stage_tutorial/Stage_tutorial1_verTGS.unity
+    guid: 6d200d82ccf162340aa7575e6fee6630
+  - enabled: 1
+    path: Assets/Yamaura/stage_tutorial/TutorialStage2_verTGS.unity
+    guid: b7ac5e8e601a76348b97dc32ae4058bb
+  - enabled: 1
+    path: Assets/Yamaura/stage_tutorial/Stage_tutorial0.unity
+    guid: 9479ccf08c84eda4492844f5f5c73ce6
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: d2bbaa004a15d1d40a2779d80b44d277,
+      type: 2}
