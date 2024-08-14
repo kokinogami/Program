@@ -1,2 +1,3 @@
 Assets/Yamaura/stage_tutorial/Stage_tutorial0/OcclusionCullingData.asset filter=lfs diff=lfs merge=lfs -text
 Assets/Assets_Marge/Scenes/GameStage/Mainmap/OcclusionCullingData.asset filter=lfs diff=lfs merge=lfs -text
+GameData.zip filter=lfs diff=lfs merge=lfs -text
